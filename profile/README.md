@@ -87,7 +87,12 @@ https://factoriaspaceapps.github.io/app-client/
 
 ## 🌍 Data Sources & APIs
 - [**NASA Worldview GIBS**](https://worldview.earthdata.nasa.gov/) by NASA — Public Domain  
-- [**Google STUN Servers**](https://developers.google.com/talk/libjingle/important_concepts) by Google — Public Domain  
+- [**Google STUN Servers**](https://developers.google.com/talk/libjingle/important_concepts) by Google — Public Domain
+- CO2 Concentration Data (1959-2023)
+- NOAA Global Monitoring Laboratory CO2 Emissions Data (1959-2023)
+- Global Carbon Project Global Temperature Data (1940-2023)
+- NASA GISS Surface Temperature Analysis Climate Disasters Data (2008-2022)
+- EM-DAT International Disaster Database Climate Impact Network Visualization - Custom dataset
 
 ---
 
